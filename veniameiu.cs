@@ -1,0 +1,1 @@
+myTextBlock.VerticalAlignment = VerticalAlignment.Bottom;
